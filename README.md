@@ -2,11 +2,11 @@
 # Prodo Productivity - Hackathon Submission
 
 Submission for Winter Hackathon. Productivity Extension built for Chrome using Chrome APIs, Javascript and HTML
-# Overview
+## Overview
 
 Chrome extension that uses several APIs with the primary being storage and runtime. Communicates with background and foreground JS files. 
 
-# Function
+## Function
 User can state what websites they wish to spend time on and a time limit, once this limit is reached they are reminded of it via a redirect
 ## Authors
 
